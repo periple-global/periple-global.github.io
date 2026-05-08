@@ -1,0 +1,5 @@
+{
+  "sheetsEndpoint": "",
+  "fallbackEmail": "wlstjs3107@gmail.com",
+  "_comment": "sheetsEndpoint를 Apps Script Web App URL로 채우면 인콰이어리가 구글 시트로 전송됩니다. 비워두면 메일 클라이언트 (mailto:) 로 fallback."
+}

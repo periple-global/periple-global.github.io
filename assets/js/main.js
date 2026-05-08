@@ -372,38 +372,88 @@ const Modal = {
 
 /* ===== Inquiry page logic ===== */
 const Inquiry = {
-  init() {
+  config: { sheetsEndpoint: '', fallbackEmail: 'wlstjs3107@gmail.com' },
+
+  async loadConfig() {
+    try {
+      const res = await fetch('data/config.json', { cache: 'no-store' });
+      if (res.ok) this.config = { ...this.config, ...(await res.json()) };
+    } catch (err) { /* keep defaults */ }
+  },
+
+  async init() {
     const root = document.querySelector('[data-inquiry]');
     if (!root) return;
+    await this.loadConfig();
     this.render();
     document.addEventListener('cart:change', () => this.render());
 
-    document.querySelector('[data-inquiry-form]')?.addEventListener('submit', (e) => {
-      e.preventDefault();
-      const form = e.target;
-      const items = Cart.get();
-      const data = Object.fromEntries(new FormData(form).entries());
+    const form = document.querySelector('[data-inquiry-form]');
+    if (!form) return;
+    form.addEventListener('submit', (e) => this.submit(e, form));
+  },
 
-      const lines = [
-        `[Periple OEM/ODM 인콰이어리]`,
-        ``,
-        `■ 발신: ${data.name || ''} (${data.company || '-'})`,
-        `■ 이메일: ${data.email || ''}`,
-        `■ 연락처: ${data.phone || '-'}`,
-        `■ 국가/지역: ${data.country || '-'}`,
-        `■ 예상 수량: ${data.qty || '-'}`,
-        `■ 희망 납기: ${data.deadline || '-'}`,
-        ``,
-        `■ 관심 패키지 (${items.length}개)`,
-        ...items.map((p) => `  · [${p.id}] ${p.name_kr} — ${p.category}/${p.subcategory} · ${(p.capacities || []).join('/')} ml · ${p.material || ''}`),
-        ``,
-        `■ 추가 요청사항`,
-        data.message || '-',
-      ];
-      const body = encodeURIComponent(lines.join('\n'));
-      const subject = encodeURIComponent(`[Periple OEM] ${data.company || data.name || '문의'} — ${items.length}개 패키지`);
-      window.location.href = `mailto:oem@periple.co.kr?subject=${subject}&body=${body}`;
-    });
+  async submit(e, form) {
+    e.preventDefault();
+    const items = Cart.get();
+    const data = Object.fromEntries(new FormData(form).entries());
+    const payload = {
+      ...data,
+      items,
+      userAgent: navigator.userAgent,
+      referrer: document.referrer || location.href,
+    };
+
+    const submitBtn = form.querySelector('button[type="submit"]');
+    const originalLabel = submitBtn?.textContent;
+
+    if (this.config.sheetsEndpoint) {
+      // Send to Google Sheets via Apps Script
+      if (submitBtn) { submitBtn.disabled = true; submitBtn.textContent = '전송 중…'; }
+      try {
+        await fetch(this.config.sheetsEndpoint, {
+          method: 'POST',
+          mode: 'no-cors',
+          headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+          body: JSON.stringify(payload),
+        });
+        toast('인콰이어리가 전송되었습니다 ✓');
+        form.reset();
+        Cart.clear();
+        this.render();
+      } catch (err) {
+        toast('전송 실패. 메일로 발송합니다…');
+        this.fallbackMailto(data, items);
+      } finally {
+        if (submitBtn) { submitBtn.disabled = false; submitBtn.textContent = originalLabel; }
+      }
+    } else {
+      // Mailto fallback (개발 / 시트 미설정 시)
+      this.fallbackMailto(data, items);
+    }
+  },
+
+  fallbackMailto(data, items) {
+    const lines = [
+      `[Periple OEM/ODM 인콰이어리]`,
+      ``,
+      `■ 발신: ${data.name || ''} (${data.company || '-'})`,
+      `■ 이메일: ${data.email || ''}`,
+      `■ 연락처: ${data.phone || '-'}`,
+      `■ 국가/지역: ${data.country || '-'}`,
+      `■ 예상 수량: ${data.qty || '-'}`,
+      `■ 희망 납기: ${data.deadline || '-'}`,
+      ``,
+      `■ 관심 패키지 (${items.length}개)`,
+      ...items.map((p) => `  · [${p.id}] ${p.name_kr} — ${p.category}/${p.subcategory} · ${(p.capacities || []).join('/')} ml · ${p.material || ''}`),
+      ``,
+      `■ 추가 요청사항`,
+      data.message || '-',
+    ];
+    const body = encodeURIComponent(lines.join('\n'));
+    const subject = encodeURIComponent(`[Periple OEM] ${data.company || data.name || '문의'} — ${items.length}개 패키지`);
+    const to = this.config.fallbackEmail || 'wlstjs3107@gmail.com';
+    window.location.href = `mailto:${to}?subject=${subject}&body=${body}`;
   },
   render() {
     const list = document.querySelector('[data-cart-list]');
