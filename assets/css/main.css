@@ -43,6 +43,13 @@ html, body {
   -webkit-font-smoothing: antialiased;
   line-height: 1.55;
   font-size: 16px;
+  word-break: keep-all;        /* 한국어 어절 단위 줄바꿈 */
+  overflow-wrap: break-word;   /* 너무 긴 영문은 자르기 */
+}
+
+/* 헤드라인 줄간격 — keep-all 적용 후 더 보기 좋게 */
+.section-title, .hero__title, .plp-hero__title {
+  line-height: 1.25;
 }
 
 img { max-width: 100%; display: block; }
