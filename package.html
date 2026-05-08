@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Package Catalog — Periple OEM/ODM</title>
+  <meta name="description" content="화장품 용기 카탈로그. 스킨케어·튜브·메이크업·스페셜 카테고리에서 필터로 원하는 용기를 찾아 인콰이어리에 담아보세요.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="container topbar__inner">
+    <a href="index.html" class="brand">Periple<span class="brand__suffix">OEM / ODM</span></a>
+    <nav class="nav" aria-label="primary">
+      <a href="package.html" class="is-active">PACKAGE</a>
+      <a href="solutions.html">SOLUTIONS</a>
+      <a href="standards.html">STANDARDS</a>
+      <a href="process.html">PROCESS</a>
+      <a href="about.html">ABOUT</a>
+    </nav>
+    <a href="inquiry.html" class="nav__cart">INQUIRY <span class="cart__count">0</span></a>
+    <button class="hamburger" aria-label="메뉴 열기"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<section class="plp-hero">
+  <div class="container">
+    <div class="plp-hero__crumbs">Home / Package Catalog</div>
+    <h1 class="plp-hero__title">Package Catalog</h1>
+    <p class="plp-hero__lede">검증된 4개 제조사의 라인업을 한 곳에서. 카드 클릭 시 상세, "+ 인콰이어리 담기"로 모아 한 번에 견적 요청.</p>
+  </div>
+</section>
+
+<div class="container plp" data-catalog>
+  <aside class="plp__sidebar">
+    <div class="filter-group">
+      <h4>Category</h4>
+      <ul class="filter-list" data-filter-list="category"></ul>
+    </div>
+    <div class="filter-group">
+      <h4>Container Type</h4>
+      <ul class="filter-list" data-filter-list="subcategory"></ul>
+    </div>
+    <div class="filter-group">
+      <h4>By Usage</h4>
+      <ul class="filter-list" data-filter-list="usage"></ul>
+    </div>
+    <div class="filter-group">
+      <h4>Volume</h4>
+      <ul class="filter-list" data-filter-list="volume_bucket"></ul>
+    </div>
+    <div class="filter-group">
+      <h4>Material</h4>
+      <ul class="filter-list" data-filter-list="material"></ul>
+    </div>
+    <div class="filter-group" style="border:0;">
+      <button class="filter-clear" data-clear-filters>↺ Clear all filters</button>
+    </div>
+  </aside>
+
+  <main class="plp__main">
+    <div class="plp__toolbar">
+      <div class="plp__count" data-count></div>
+      <div class="plp__sort">
+        <span>Sort by</span>
+        <select data-sort>
+          <option value="category">Category</option>
+          <option value="capacity">Capacity (small first)</option>
+          <option value="name">Name</option>
+        </select>
+      </div>
+    </div>
+    <div class="product-grid" data-grid></div>
+  </main>
+</div>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer__top">
+      <div class="footer__brand">
+        <div class="brand">Periple<span class="brand__suffix">OEM / ODM</span></div>
+        <p>페리플글로벌의 OEM/ODM 사업부.<br>패키지·브랜딩·디자인을 한 창구에서.</p>
+      </div>
+      <div>
+        <h5>Package</h5>
+        <ul>
+          <li><a href="package.html?cat=skincare">Skincare</a></li>
+          <li><a href="package.html?cat=makeup">Makeup</a></li>
+          <li><a href="package.html?cat=special">Special</a></li>
+          <li><a href="package.html?sub=tube">Tube</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Solutions</h5>
+        <ul>
+          <li><a href="solutions.html#brand-strategy">Brand Strategy</a></li>
+          <li><a href="solutions.html#brand-identity">CI / BI</a></li>
+          <li><a href="solutions.html#package-design">Package Design</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Company</h5>
+        <ul>
+          <li><a href="about.html">회사소개</a></li>
+          <li><a href="standards.html">Quality Standards</a></li>
+          <li><a href="process.html">개발 프로세스</a></li>
+          <li><a href="https://periple.co.kr" target="_blank" rel="noopener">← 페리플글로벌 본사</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Contact</h5>
+        <ul>
+          <li><a href="inquiry.html">Inquiry</a></li>
+          <li><a href="mailto:oem@periple.co.kr">oem@periple.co.kr</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <span>© 2026 Periple Global. All rights reserved.</span>
+      <span><a href="https://periple.co.kr">periple.co.kr</a></span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>

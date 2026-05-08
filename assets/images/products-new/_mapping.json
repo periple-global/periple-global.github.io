@@ -1,0 +1,338 @@
+[
+  {
+    "file_code": "P001",
+    "id": "kangyue-amber-round",
+    "name_kr": "앰버 라운드 보틀 세트",
+    "name_en": "Amber Round Bottle Set",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P002",
+    "id": "kangyue-frosted-electroplated",
+    "name_kr": "프로스티드 / 일렉트로플레이팅 보틀",
+    "name_en": "Frosted / Electroplated Bottle",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P003",
+    "id": "kangyue-large-diameter",
+    "name_kr": "대구경 카숄더 보틀",
+    "name_en": "Large Diameter Shoulder Bottle",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P004",
+    "id": "kangyue-pet-shoulder",
+    "name_kr": "PET 카숄더 보틀",
+    "name_en": "PET Shoulder Bottle",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P005",
+    "id": "kangyue-pet-tall",
+    "name_kr": "PET 톨 보틀",
+    "name_en": "PET Tall Bottle",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P006",
+    "id": "kangyue-skincare-set-1",
+    "name_kr": "PET 스킨케어 세트 A",
+    "name_en": "PET Skincare Set A",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P007",
+    "id": "kangyue-skincare-set-2",
+    "name_kr": "PET 스킨케어 세트 B",
+    "name_en": "PET Skincare Set B",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P008",
+    "id": "kangyue-skincare-set-3",
+    "name_kr": "PET 스킨케어 세트 C",
+    "name_en": "PET Skincare Set C",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P009",
+    "id": "leekee-h489",
+    "name_kr": "H489 블루 글래스 세트",
+    "name_en": "H489 Blue Glass Set",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P010",
+    "id": "leekee-h570",
+    "name_kr": "H570 베이지 세트",
+    "name_en": "H570 Beige Set",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P011",
+    "id": "leekee-h621",
+    "name_kr": "H621 글래스 세트",
+    "name_en": "H621 Glass Set",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P012",
+    "id": "leekee-set-1",
+    "name_kr": "스킨케어 세트 시리즈 A",
+    "name_en": "Skincare Set Series A",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P013",
+    "id": "leekee-set-2",
+    "name_kr": "스킨케어 세트 시리즈 B",
+    "name_en": "Skincare Set Series B",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P014",
+    "id": "leekee-set-3",
+    "name_kr": "스킨케어 세트 시리즈 C",
+    "name_en": "Skincare Set Series C",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P015",
+    "id": "leekee-set-4",
+    "name_kr": "스킨케어 세트 시리즈 D",
+    "name_en": "Skincare Set Series D",
+    "category": "skincare",
+    "subcategory": "bottle"
+  },
+  {
+    "file_code": "P016",
+    "id": "kangyue-cream-jar",
+    "name_kr": "크림 자 (PET / Acrylic)",
+    "name_en": "Cream Jar — PET / Acrylic",
+    "category": "skincare",
+    "subcategory": "jar"
+  },
+  {
+    "file_code": "P017",
+    "id": "leekee-cream-jar",
+    "name_kr": "글래스 크림 자",
+    "name_en": "Glass Cream Jar",
+    "category": "skincare",
+    "subcategory": "jar"
+  },
+  {
+    "file_code": "P018",
+    "id": "leekee-mask-jar",
+    "name_kr": "마스크팩 글래스 자",
+    "name_en": "Mask Glass Jar",
+    "category": "skincare",
+    "subcategory": "jar"
+  },
+  {
+    "file_code": "P019",
+    "id": "lichuang-cotton-pad-jar-1",
+    "name_kr": "코튼 패드 박스 (대용량)",
+    "name_en": "Cotton Pad Jar — Large",
+    "category": "skincare",
+    "subcategory": "jar"
+  },
+  {
+    "file_code": "P020",
+    "id": "lichuang-cotton-pad-jar-2",
+    "name_kr": "코튼 패드 자 (소용량)",
+    "name_en": "Cotton Pad Jar — Small",
+    "category": "skincare",
+    "subcategory": "jar"
+  },
+  {
+    "file_code": "P021",
+    "id": "leekee-essence",
+    "name_kr": "에센스·세럼 보틀",
+    "name_en": "Essence & Serum Bottle",
+    "category": "skincare",
+    "subcategory": "dropper"
+  },
+  {
+    "file_code": "P022",
+    "id": "kangyue-acrylic-airless",
+    "name_kr": "아크릴 에어리스 시리즈",
+    "name_en": "Acrylic Airless Series",
+    "category": "skincare",
+    "subcategory": "airless"
+  },
+  {
+    "file_code": "P023",
+    "id": "lichuang-airless-bottle-set",
+    "name_kr": "에어리스 보틀 세트",
+    "name_en": "Airless Bottle Set",
+    "category": "skincare",
+    "subcategory": "airless"
+  },
+  {
+    "file_code": "P024",
+    "id": "lichuang-airless-cream-bottle",
+    "name_kr": "에어리스 크림 보틀",
+    "name_en": "Airless Cream Bottle",
+    "category": "skincare",
+    "subcategory": "airless"
+  },
+  {
+    "file_code": "P025",
+    "id": "lichuang-airless-cream-jar",
+    "name_kr": "에어리스 크림 자",
+    "name_en": "Airless Cream Jar",
+    "category": "skincare",
+    "subcategory": "airless"
+  },
+  {
+    "file_code": "P026",
+    "id": "oxm-eco-paper-tube",
+    "name_kr": "친환경 PCR/PLA 튜브",
+    "name_en": "Eco PCR/PLA Tube",
+    "category": "skincare",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P027",
+    "id": "oxm-eco-tube-set",
+    "name_kr": "친환경 튜브 세트",
+    "name_en": "Eco Tube Series",
+    "category": "skincare",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P028",
+    "id": "oxm-ice-cream-tube",
+    "name_kr": "아이스크림 노즐 튜브",
+    "name_en": "Ice Cream Nozzle Tube",
+    "category": "skincare",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P029",
+    "id": "oxm-long-nozzle-tube",
+    "name_kr": "롱 노즐 튜브 (아이크림)",
+    "name_en": "Long Nozzle Tube",
+    "category": "skincare",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P030",
+    "id": "oxm-square-cap-tube",
+    "name_kr": "스퀘어 캡 튜브",
+    "name_en": "Square Cap Tube",
+    "category": "skincare",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P031",
+    "id": "oxm-tri-angle-tube",
+    "name_kr": "삼각·사각 단면 튜브",
+    "name_en": "Tri-Angle / Quadrilateral Tube",
+    "category": "skincare",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P032",
+    "id": "oxm-wood-bamboo-tube",
+    "name_kr": "우드/뱀부 캡 튜브",
+    "name_en": "Wood / Bamboo Cap Tube",
+    "category": "skincare",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P033",
+    "id": "oxm-makeup-applicator-tube",
+    "name_kr": "메이크업 어플리케이터 튜브",
+    "name_en": "Makeup Applicator Tube",
+    "category": "makeup",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P034",
+    "id": "lichuang-click-pen",
+    "name_kr": "클릭 펜",
+    "name_en": "Click Pen",
+    "category": "makeup",
+    "subcategory": "pen"
+  },
+  {
+    "file_code": "P035",
+    "id": "lichuang-nail-product",
+    "name_kr": "네일 펜",
+    "name_en": "Nail Pen",
+    "category": "makeup",
+    "subcategory": "pen"
+  },
+  {
+    "file_code": "P036",
+    "id": "lichuang-twist-pen",
+    "name_kr": "트위스트 펜 (메이크업)",
+    "name_en": "Twist Pen",
+    "category": "makeup",
+    "subcategory": "pen"
+  },
+  {
+    "file_code": "P037",
+    "id": "lichuang-airless-syringe",
+    "name_kr": "에어리스 시린지 보틀",
+    "name_en": "Airless Syringe Bottle",
+    "category": "special",
+    "subcategory": "airless"
+  },
+  {
+    "file_code": "P038",
+    "id": "oxm-five-bead-massage",
+    "name_kr": "5비드 넥 마사지 튜브",
+    "name_en": "Five-Bead Massage Tube",
+    "category": "special",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P039",
+    "id": "oxm-massage-ball-tube",
+    "name_kr": "마사지 볼 튜브",
+    "name_en": "Massage Ball Tube",
+    "category": "special",
+    "subcategory": "tube"
+  },
+  {
+    "file_code": "P040",
+    "id": "lichuang-airless-roller",
+    "name_kr": "에어리스 롤러 보틀",
+    "name_en": "Airless Roller Bottle",
+    "category": "special",
+    "subcategory": "applicator"
+  },
+  {
+    "file_code": "P041",
+    "id": "lichuang-scalp-applicator",
+    "name_kr": "두피 어플리케이터",
+    "name_en": "Scalp Liquid Applicator",
+    "category": "special",
+    "subcategory": "applicator"
+  },
+  {
+    "file_code": "P042",
+    "id": "lichuang-syringe-series",
+    "name_kr": "시린지 시리즈 (앰플)",
+    "name_en": "Syringe Series",
+    "category": "special",
+    "subcategory": "applicator"
+  }
+]

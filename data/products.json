@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "leekee-h621",
+    "name_kr": "H621 글래스 세트",
+    "name_en": "H621 Glass Set",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "A",
+    "models": [
+      "BO-01",
+      "BO-02",
+      "BO-03",
+      "BO-04",
+      "BO-05",
+      "BO-06",
+      "BO-07"
+    ],
+    "capacities": [
+      30,
+      40,
+      100,
+      120,
+      50
+    ],
+    "material": "Glass",
+    "features": [
+      "Set series",
+      "Toner-Lotion-Cream"
+    ],
+    "description": "리브 텍스처 글래스 세트. 토너·로션·세럼·크림 풀라인 구성, 핑크 캡 포인트.",
+    "image": "assets/images/products-new/_placeholders/P011.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "leekee-h570",
+    "name_kr": "H570 베이지 세트",
+    "name_en": "H570 Beige Set",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "A",
+    "models": [
+      "BO-01",
+      "BO-02",
+      "BO-03",
+      "BO-04",
+      "BO-05"
+    ],
+    "capacities": [
+      35,
+      100,
+      120,
+      30,
+      50
+    ],
+    "material": "Glass",
+    "features": [
+      "Frosted glass",
+      "Gold cap"
+    ],
+    "description": "프로스티드 글래스 + 골드 캡. 30~120ml 풀세트.",
+    "image": "assets/images/products-new/_placeholders/P010.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "leekee-h489",
+    "name_kr": "H489 블루 글래스 세트",
+    "name_en": "H489 Blue Glass Set",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "A",
+    "models": [
+      "BO-01",
+      "BO-02",
+      "BO-03",
+      "BO-04",
+      "BO-05"
+    ],
+    "capacities": [
+      40,
+      100,
+      120,
+      30,
+      50
+    ],
+    "material": "Glass",
+    "features": [
+      "Blue tint",
+      "Black cap"
+    ],
+    "description": "딥 블루 틴티드 글래스 + 블랙 골드 캡. 럭셔리 라인.",
+    "image": "assets/images/products-new/_placeholders/P009.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "leekee-cream-jar",
+    "name_kr": "글래스 크림 자",
+    "name_en": "Glass Cream Jar",
+    "category": "skincare",
+    "subcategory": "jar",
+    "partner": "A",
+    "models": [
+      "JA-01",
+      "JA-02",
+      "JA-03",
+      "JA-04"
+    ],
+    "capacities": [
+      50,
+      100,
+      120,
+      130
+    ],
+    "material": "Glass",
+    "features": [
+      "Multi-color",
+      "Inner cup"
+    ],
+    "description": "프로스티드/그라데이션 컬러 글래스 자, 내부컵 분리식.",
+    "image": "assets/images/products-new/_placeholders/P017.jpg",
+    "usage": [
+      "Cream",
+      "Mask"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "leekee-set-1",
+    "name_kr": "스킨케어 세트 시리즈 A",
+    "name_en": "Skincare Set Series A",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "A",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      30,
+      50,
+      100,
+      120
+    ],
+    "material": "Glass",
+    "features": [
+      "500+ designs",
+      "Set series"
+    ],
+    "description": "검증 네트워크 자체 보유 디자인 500종 중 시그니처 라인업.",
+    "image": "assets/images/products-new/_placeholders/P012.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "leekee-set-2",
+    "name_kr": "스킨케어 세트 시리즈 B",
+    "name_en": "Skincare Set Series B",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "A",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      30,
+      50,
+      100,
+      120
+    ],
+    "material": "Glass",
+    "features": [
+      "Set series"
+    ],
+    "description": "스킨케어 토너·로션·에센스·크림 통합 세트.",
+    "image": "assets/images/products-new/_placeholders/P013.jpg",
+    "usage": [
+      "Cream",
+      "Essence",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "leekee-set-3",
+    "name_kr": "스킨케어 세트 시리즈 C",
+    "name_en": "Skincare Set Series C",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "A",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      30,
+      50,
+      100,
+      120
+    ],
+    "material": "Glass",
+    "features": [
+      "Set series"
+    ],
+    "description": "고급 라인 스킨케어 풀세트.",
+    "image": "assets/images/products-new/_placeholders/P014.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "leekee-set-4",
+    "name_kr": "스킨케어 세트 시리즈 D",
+    "name_en": "Skincare Set Series D",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "A",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      30,
+      50,
+      100,
+      120
+    ],
+    "material": "Glass",
+    "features": [
+      "Set series"
+    ],
+    "description": "스킨케어 토너·로션·세럼·크림 통합 세트.",
+    "image": "assets/images/products-new/_placeholders/P015.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "leekee-essence",
+    "name_kr": "에센스·세럼 보틀",
+    "name_en": "Essence & Serum Bottle",
+    "category": "skincare",
+    "subcategory": "dropper",
+    "partner": "A",
+    "models": [
+      "DR-01"
+    ],
+    "capacities": [
+      15,
+      30,
+      50
+    ],
+    "material": "Glass",
+    "features": [
+      "Dropper compatible"
+    ],
+    "description": "스포이드 호환 에센스 보틀, 다양한 입구 규격.",
+    "image": "assets/images/products-new/_placeholders/P021.jpg",
+    "usage": [
+      "Essence",
+      "Oil",
+      "Serum"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml"
+    ]
+  },
+  {
+    "id": "leekee-mask-jar",
+    "name_kr": "마스크팩 글래스 자",
+    "name_en": "Mask Glass Jar",
+    "category": "skincare",
+    "subcategory": "jar",
+    "partner": "A",
+    "models": [
+      "JA-01"
+    ],
+    "capacities": [
+      100,
+      130,
+      150,
+      200
+    ],
+    "material": "Glass",
+    "features": [
+      "Wide mouth",
+      "Mask pack"
+    ],
+    "description": "와이드 마우스 마스크팩 자, 100~200g.",
+    "image": "assets/images/products-new/_placeholders/P018.jpg",
+    "usage": [
+      "Cream",
+      "Mask"
+    ],
+    "volume_bucket": [
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "lichuang-syringe-series",
+    "name_kr": "시린지 시리즈 (앰플)",
+    "name_en": "Syringe Series",
+    "category": "special",
+    "subcategory": "applicator",
+    "partner": "B",
+    "models": [
+      "AP-01",
+      "AP-02",
+      "AP-03",
+      "AP-04"
+    ],
+    "capacities": [
+      10,
+      15
+    ],
+    "material": "AS / PP",
+    "features": [
+      "Multiple tips",
+      "Acne · Mask · Lip oil"
+    ],
+    "description": "주사기형 미용 앰플. 16+종 노즐 호환, 여드름·마스크·립오일용.",
+    "image": "assets/images/products-new/_placeholders/P042.jpg",
+    "usage": [
+      "Essence",
+      "Eye Cream",
+      "Lip",
+      "Mask",
+      "Massage"
+    ],
+    "volume_bucket": [
+      "≤15ml"
+    ]
+  },
+  {
+    "id": "lichuang-airless-syringe",
+    "name_kr": "에어리스 시린지 보틀",
+    "name_en": "Airless Syringe Bottle",
+    "category": "special",
+    "subcategory": "airless",
+    "partner": "B",
+    "models": [
+      "AI-01",
+      "AI-02",
+      "AI-03"
+    ],
+    "capacities": [
+      5,
+      10,
+      15
+    ],
+    "material": "AS / PP",
+    "features": [
+      "Airless",
+      "Slim pen-shape"
+    ],
+    "description": "슬림 펜 형태 에어리스 시린지, 5~15ml.",
+    "image": "assets/images/products-new/_placeholders/P037.jpg",
+    "usage": [
+      "Cream",
+      "Essence",
+      "Serum"
+    ],
+    "volume_bucket": [
+      "≤15ml"
+    ]
+  },
+  {
+    "id": "lichuang-airless-roller",
+    "name_kr": "에어리스 롤러 보틀",
+    "name_en": "Airless Roller Bottle",
+    "category": "special",
+    "subcategory": "applicator",
+    "partner": "B",
+    "models": [
+      "AP-01",
+      "AP-02",
+      "AP-03"
+    ],
+    "capacities": [
+      6,
+      10,
+      15
+    ],
+    "material": "AS / Stainless",
+    "features": [
+      "Roller ball",
+      "Airless",
+      "Eye / Neck cream"
+    ],
+    "description": "스테인리스 볼 롤러 + 에어리스. 아이크림·넥크림 최적화.",
+    "image": "assets/images/products-new/_placeholders/P040.jpg",
+    "usage": [
+      "Eye Cream",
+      "Massage"
+    ],
+    "volume_bucket": [
+      "≤15ml"
+    ]
+  },
+  {
+    "id": "lichuang-twist-pen",
+    "name_kr": "트위스트 펜 (메이크업)",
+    "name_en": "Twist Pen",
+    "category": "makeup",
+    "subcategory": "pen",
+    "partner": "B",
+    "models": [
+      "PE-01",
+      "PE-02",
+      "PE-03",
+      "PE-04",
+      "PE-05",
+      "PE-06"
+    ],
+    "capacities": [
+      1.5,
+      2,
+      3,
+      4,
+      6,
+      10
+    ],
+    "material": "AS / PP",
+    "features": [
+      "Twist mechanism",
+      "Multi tips"
+    ],
+    "description": "회전식 메이크업 펜. 네일오일·립오일·컨실러·아이크림 등.",
+    "image": "assets/images/products-new/_placeholders/P036.jpg",
+    "usage": [
+      "BB & Concealer",
+      "Concealer",
+      "Eye Cream",
+      "Foundation",
+      "Lip",
+      "Nail"
+    ],
+    "volume_bucket": [
+      "≤15ml"
+    ]
+  },
+  {
+    "id": "lichuang-click-pen",
+    "name_kr": "클릭 펜",
+    "name_en": "Click Pen",
+    "category": "makeup",
+    "subcategory": "pen",
+    "partner": "B",
+    "models": [
+      "PE-01",
+      "PE-02",
+      "PE-03"
+    ],
+    "capacities": [
+      3,
+      4,
+      6
+    ],
+    "material": "AS / PP",
+    "features": [
+      "Click mechanism"
+    ],
+    "description": "원터치 클릭 펜. 정량 토출, 다양한 노즐 호환.",
+    "image": "assets/images/products-new/_placeholders/P034.jpg",
+    "usage": [
+      "Concealer",
+      "Lip"
+    ],
+    "volume_bucket": [
+      "≤15ml"
+    ]
+  },
+  {
+    "id": "lichuang-scalp-applicator",
+    "name_kr": "두피 어플리케이터",
+    "name_en": "Scalp Liquid Applicator",
+    "category": "special",
+    "subcategory": "applicator",
+    "partner": "B",
+    "models": [
+      "AP-01",
+      "AP-02",
+      "AP-03",
+      "AP-04"
+    ],
+    "capacities": [
+      6,
+      10,
+      15,
+      20
+    ],
+    "material": "AS / PP",
+    "features": [
+      "Brush head",
+      "Scalp · Hair tonic"
+    ],
+    "description": "두피용 어플리케이터. 브러시·니들·롤러 헤드 옵션.",
+    "image": "assets/images/products-new/_placeholders/P041.jpg",
+    "usage": [
+      "Eye Cream",
+      "Hair & Scalp",
+      "Massage"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml"
+    ]
+  },
+  {
+    "id": "lichuang-airless-cream-jar",
+    "name_kr": "에어리스 크림 자",
+    "name_en": "Airless Cream Jar",
+    "category": "skincare",
+    "subcategory": "airless",
+    "partner": "B",
+    "models": [
+      "AI-01",
+      "AI-02",
+      "AI-03"
+    ],
+    "capacities": [
+      15,
+      30,
+      50
+    ],
+    "material": "Acrylic / PP",
+    "features": [
+      "Airless jar",
+      "Refillable"
+    ],
+    "description": "리필형 에어리스 크림 자. 컬러 베리에이션 풍부.",
+    "image": "assets/images/products-new/_placeholders/P025.jpg",
+    "usage": [
+      "Cream",
+      "Essence",
+      "Serum"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml"
+    ]
+  },
+  {
+    "id": "lichuang-cotton-pad-jar-1",
+    "name_kr": "코튼 패드 박스 (대용량)",
+    "name_en": "Cotton Pad Jar — Large",
+    "category": "skincare",
+    "subcategory": "jar",
+    "partner": "B",
+    "models": [
+      "JA-01",
+      "JA-02"
+    ],
+    "capacities": [
+      250,
+      300
+    ],
+    "material": "PP",
+    "features": [
+      "Square shape",
+      "Flip lid"
+    ],
+    "description": "스퀘어 코튼 패드 박스, 250·300ml.",
+    "image": "assets/images/products-new/_placeholders/P019.jpg",
+    "usage": [
+      "Cream",
+      "Lip",
+      "Mask"
+    ],
+    "volume_bucket": [
+      "200ml+"
+    ]
+  },
+  {
+    "id": "lichuang-cotton-pad-jar-2",
+    "name_kr": "코튼 패드 자 (소용량)",
+    "name_en": "Cotton Pad Jar — Small",
+    "category": "skincare",
+    "subcategory": "jar",
+    "partner": "B",
+    "models": [
+      "JA-01",
+      "JA-02",
+      "JA-03",
+      "JA-04"
+    ],
+    "capacities": [
+      50,
+      100,
+      120,
+      150
+    ],
+    "material": "PP",
+    "features": [
+      "Round shape",
+      "Flip lid"
+    ],
+    "description": "라운드 형태 토너 패드용 자. 50~150ml.",
+    "image": "assets/images/products-new/_placeholders/P020.jpg",
+    "usage": [
+      "Cream",
+      "Lip",
+      "Mask"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "lichuang-nail-product",
+    "name_kr": "네일 펜",
+    "name_en": "Nail Pen",
+    "category": "makeup",
+    "subcategory": "pen",
+    "partner": "B",
+    "models": [
+      "PE-01",
+      "PE-02",
+      "PE-03"
+    ],
+    "capacities": [
+      3
+    ],
+    "material": "AS / Aluminum",
+    "features": [
+      "Brush",
+      "Nail polish · Cuticle oil"
+    ],
+    "description": "네일 폴리시·큐티클 오일 전용 펜. 알루미늄 케이스.",
+    "image": "assets/images/products-new/_placeholders/P035.jpg",
+    "usage": [
+      "Concealer",
+      "Lip",
+      "Nail"
+    ],
+    "volume_bucket": [
+      "≤15ml"
+    ]
+  },
+  {
+    "id": "lichuang-airless-cream-bottle",
+    "name_kr": "에어리스 크림 보틀",
+    "name_en": "Airless Cream Bottle",
+    "category": "skincare",
+    "subcategory": "airless",
+    "partner": "B",
+    "models": [
+      "AI-01",
+      "AI-02",
+      "AI-03",
+      "AI-04"
+    ],
+    "capacities": [
+      30,
+      50,
+      80,
+      200
+    ],
+    "material": "PP / Acrylic",
+    "features": [
+      "Airless",
+      "Pump"
+    ],
+    "description": "원형 에어리스 펌프 보틀. 30~200ml.",
+    "image": "assets/images/products-new/_placeholders/P024.jpg",
+    "usage": [
+      "Cream",
+      "Essence",
+      "Serum"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "lichuang-airless-bottle-set",
+    "name_kr": "에어리스 보틀 세트",
+    "name_en": "Airless Bottle Set",
+    "category": "skincare",
+    "subcategory": "airless",
+    "partner": "B",
+    "models": [
+      "AI-01",
+      "AI-02",
+      "AI-03"
+    ],
+    "capacities": [
+      15,
+      30,
+      50
+    ],
+    "material": "Acrylic",
+    "features": [
+      "Airless",
+      "Rose gold cap"
+    ],
+    "description": "로즈골드 캡 에어리스 세트. 럭셔리 톤.",
+    "image": "assets/images/products-new/_placeholders/P023.jpg",
+    "usage": [
+      "Cream",
+      "Essence",
+      "Serum"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml"
+    ]
+  },
+  {
+    "id": "oxm-eco-paper-tube",
+    "name_kr": "친환경 PCR/PLA 튜브",
+    "name_en": "Eco PCR/PLA Tube",
+    "category": "skincare",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03"
+    ],
+    "capacities": [
+      50,
+      80,
+      100,
+      150,
+      200
+    ],
+    "material": "PCR / PLA / BIO Paper",
+    "features": [
+      "Eco-friendly",
+      "Sustainable"
+    ],
+    "description": "PCR·PLA·BIO 페이퍼 친환경 튜브, 2~400ml. 사탕수수 바이오플라스틱 옵션.",
+    "image": "assets/images/products-new/_placeholders/P026.jpg",
+    "usage": [
+      "Cleansing",
+      "Cream",
+      "Hand & Body"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "oxm-wood-bamboo-tube",
+    "name_kr": "우드/뱀부 캡 튜브",
+    "name_en": "Wood / Bamboo Cap Tube",
+    "category": "skincare",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03",
+      "TU-04"
+    ],
+    "capacities": [
+      50,
+      100,
+      150
+    ],
+    "material": "ABL / Wood / Bamboo",
+    "features": [
+      "Wood cap",
+      "Bamboo cap",
+      "Premium"
+    ],
+    "description": "원목·뱀부 캡 튜브. 친환경 + 럭셔리 감성.",
+    "image": "assets/images/products-new/_placeholders/P032.jpg",
+    "usage": [
+      "Cleansing",
+      "Cream",
+      "Hand & Body"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "oxm-eco-tube-set",
+    "name_kr": "친환경 튜브 세트",
+    "name_en": "Eco Tube Series",
+    "category": "skincare",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03",
+      "TU-04"
+    ],
+    "capacities": [
+      10,
+      30,
+      50,
+      80,
+      120
+    ],
+    "material": "PCR / PLA",
+    "features": [
+      "Eco-friendly",
+      "Reduce 40% plastic"
+    ],
+    "description": "플라스틱 40% 절감 라인업. 다양한 사이즈.",
+    "image": "assets/images/products-new/_placeholders/P027.jpg",
+    "usage": [
+      "Cleansing",
+      "Cream",
+      "Hand & Body"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "oxm-ice-cream-tube",
+    "name_kr": "아이스크림 노즐 튜브",
+    "name_en": "Ice Cream Nozzle Tube",
+    "category": "skincare",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03",
+      "TU-04",
+      "TU-05"
+    ],
+    "capacities": [
+      15,
+      30,
+      50,
+      100,
+      150,
+      250
+    ],
+    "material": "PE / ABL",
+    "features": [
+      "Foam nozzle",
+      "Special shape",
+      "Patented"
+    ],
+    "description": "아이스크림 형태 폼 노즐 튜브. 헤어케어·바디·샤워젤. 특허 ZL2020 30797358.8.",
+    "image": "assets/images/products-new/_placeholders/P028.jpg",
+    "usage": [
+      "Cleansing",
+      "Cream",
+      "Eye Cream",
+      "Hand & Body"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml",
+      "51~100ml",
+      "101~200ml",
+      "200ml+"
+    ]
+  },
+  {
+    "id": "oxm-massage-ball-tube",
+    "name_kr": "마사지 볼 튜브",
+    "name_en": "Massage Ball Tube",
+    "category": "special",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03",
+      "TU-04"
+    ],
+    "capacities": [
+      3,
+      30,
+      50,
+      100,
+      250
+    ],
+    "material": "PE / Stainless / Stone / Ceramic",
+    "features": [
+      "Massage applicator",
+      "Patented",
+      "Multi-material ball"
+    ],
+    "description": "스테인리스/스톤/세라믹 마사지 볼 튜브. 다리·팔·바디·아이·립용. 특허 ZL2019 30224732.2.",
+    "image": "assets/images/products-new/_placeholders/P039.jpg",
+    "usage": [
+      "Eye Cream",
+      "Hand & Body",
+      "Lip",
+      "Massage"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml",
+      "51~100ml",
+      "200ml+"
+    ]
+  },
+  {
+    "id": "oxm-five-bead-massage",
+    "name_kr": "5비드 넥 마사지 튜브",
+    "name_en": "Five-Bead Massage Tube",
+    "category": "special",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03"
+    ],
+    "capacities": [
+      50,
+      100,
+      150
+    ],
+    "material": "PE / Stainless",
+    "features": [
+      "5 stainless beads",
+      "Premium massage"
+    ],
+    "description": "5비드 스테인리스 마사지 헤드 튜브. 넥크림·바디 슬리밍.",
+    "image": "assets/images/products-new/_placeholders/P038.jpg",
+    "usage": [
+      "Eye Cream",
+      "Hand & Body",
+      "Massage"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "oxm-makeup-applicator-tube",
+    "name_kr": "메이크업 어플리케이터 튜브",
+    "name_en": "Makeup Applicator Tube",
+    "category": "makeup",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03",
+      "TU-04"
+    ],
+    "capacities": [
+      10,
+      15,
+      20,
+      30,
+      50,
+      70
+    ],
+    "material": "ABL / Soft Touch",
+    "features": [
+      "Foam applicator",
+      "Brush applicator",
+      "BB · Concealer · Foundation"
+    ],
+    "description": "폼/브러시 어플리케이터 메이크업 튜브. BB·컨실러·파운데이션·블러셔.",
+    "image": "assets/images/products-new/_placeholders/P033.jpg",
+    "usage": [
+      "BB & Concealer",
+      "Foundation"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml",
+      "51~100ml"
+    ]
+  },
+  {
+    "id": "oxm-long-nozzle-tube",
+    "name_kr": "롱 노즐 튜브 (아이크림)",
+    "name_en": "Long Nozzle Tube",
+    "category": "skincare",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03",
+      "TU-04",
+      "TU-05"
+    ],
+    "capacities": [
+      10,
+      15,
+      20,
+      30,
+      50,
+      100,
+      325
+    ],
+    "material": "ABL / PE",
+    "features": [
+      "Long nozzle",
+      "Pinpoint",
+      "Eye · CC · Foundation"
+    ],
+    "description": "정밀 도포용 롱 노즐 튜브. 아이크림·CC크림·파운데이션.",
+    "image": "assets/images/products-new/_placeholders/P029.jpg",
+    "usage": [
+      "BB & Concealer",
+      "Cleansing",
+      "Cream",
+      "Eye Cream",
+      "Foundation",
+      "Hand & Body"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml",
+      "51~100ml",
+      "200ml+"
+    ]
+  },
+  {
+    "id": "oxm-tri-angle-tube",
+    "name_kr": "삼각·사각 단면 튜브",
+    "name_en": "Tri-Angle / Quadrilateral Tube",
+    "category": "skincare",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03",
+      "TU-04"
+    ],
+    "capacities": [
+      50,
+      80,
+      100,
+      120,
+      150,
+      170
+    ],
+    "material": "ABL",
+    "features": [
+      "Unique cross-section",
+      "Patented"
+    ],
+    "description": "삼각·사각 단면 튜브. 스킨케어·페이셜크림·바디. 특허 보유.",
+    "image": "assets/images/products-new/_placeholders/P031.jpg",
+    "usage": [
+      "Cleansing",
+      "Cream",
+      "Hand & Body"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "oxm-square-cap-tube",
+    "name_kr": "스퀘어 캡 튜브",
+    "name_en": "Square Cap Tube",
+    "category": "skincare",
+    "subcategory": "tube",
+    "partner": "C",
+    "models": [
+      "TU-01",
+      "TU-02",
+      "TU-03",
+      "TU-04",
+      "TU-05",
+      "TU-06"
+    ],
+    "capacities": [
+      20,
+      50,
+      100,
+      150,
+      200
+    ],
+    "material": "ABL / PE",
+    "features": [
+      "Square cap",
+      "Modern look"
+    ],
+    "description": "사각 캡 + 튜브 바디. 모던 패키지 룩.",
+    "image": "assets/images/products-new/_placeholders/P030.jpg",
+    "usage": [
+      "Cleansing",
+      "Cream",
+      "Hand & Body"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "kangyue-amber-round",
+    "name_kr": "앰버 라운드 보틀 세트",
+    "name_en": "Amber Round Bottle Set",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "D",
+    "models": [
+      "BO-01",
+      "BO-02",
+      "BO-03"
+    ],
+    "capacities": [
+      30,
+      50,
+      100
+    ],
+    "material": "PET / Glass",
+    "features": [
+      "Amber tint",
+      "In stock"
+    ],
+    "description": "재고 보유 앰버 라운드 보틀 세트. 즉시 출고 가능.",
+    "image": "assets/images/products-new/_placeholders/P001.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml"
+    ]
+  },
+  {
+    "id": "kangyue-frosted-electroplated",
+    "name_kr": "프로스티드 / 일렉트로플레이팅 보틀",
+    "name_en": "Frosted / Electroplated Bottle",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "D",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      30,
+      50,
+      100,
+      120
+    ],
+    "material": "PET / Acrylic",
+    "features": [
+      "Frosted finish",
+      "Electroplated cap"
+    ],
+    "description": "프로스티드 글로스 + 일렉트로플레이팅 캡 라인.",
+    "image": "assets/images/products-new/_placeholders/P002.jpg",
+    "usage": [
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "kangyue-large-diameter",
+    "name_kr": "대구경 카숄더 보틀",
+    "name_en": "Large Diameter Shoulder Bottle",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "D",
+    "models": [
+      "BO-01",
+      "BO-02",
+      "BO-03",
+      "BO-04"
+    ],
+    "capacities": [
+      70,
+      100,
+      120,
+      150
+    ],
+    "material": "PET",
+    "features": [
+      "41mm diameter",
+      "24-thread"
+    ],
+    "description": "직경 41mm 통일 카숄더 보틀. 70·100·120·150ml 라인.",
+    "image": "assets/images/products-new/_placeholders/P003.jpg",
+    "usage": [
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "kangyue-pet-shoulder",
+    "name_kr": "PET 카숄더 보틀",
+    "name_en": "PET Shoulder Bottle",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "D",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      70,
+      100,
+      120,
+      150
+    ],
+    "material": "PET",
+    "features": [
+      "Solid color",
+      "Wide cap"
+    ],
+    "description": "솔리드 컬러 PET 카숄더 보틀.",
+    "image": "assets/images/products-new/_placeholders/P004.jpg",
+    "usage": [
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "kangyue-acrylic-airless",
+    "name_kr": "아크릴 에어리스 시리즈",
+    "name_en": "Acrylic Airless Series",
+    "category": "skincare",
+    "subcategory": "airless",
+    "partner": "D",
+    "models": [
+      "AI-01",
+      "AI-02",
+      "AI-03",
+      "AI-04"
+    ],
+    "capacities": [
+      15,
+      30,
+      40,
+      50,
+      100
+    ],
+    "material": "Acrylic",
+    "features": [
+      "Airless",
+      "20-thread"
+    ],
+    "description": "아크릴 진공 에어리스 시리즈. 직경 39~60mm, 높이 63~172mm.",
+    "image": "assets/images/products-new/_placeholders/P022.jpg",
+    "usage": [
+      "Cream",
+      "Essence",
+      "Serum"
+    ],
+    "volume_bucket": [
+      "≤15ml",
+      "16~50ml",
+      "51~100ml"
+    ]
+  },
+  {
+    "id": "kangyue-skincare-set-1",
+    "name_kr": "PET 스킨케어 세트 A",
+    "name_en": "PET Skincare Set A",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "D",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      30,
+      50,
+      100,
+      120
+    ],
+    "material": "PET",
+    "features": [
+      "Set series",
+      "In stock"
+    ],
+    "description": "재고 보유 PET 스킨케어 풀세트 A.",
+    "image": "assets/images/products-new/_placeholders/P006.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "kangyue-skincare-set-2",
+    "name_kr": "PET 스킨케어 세트 B",
+    "name_en": "PET Skincare Set B",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "D",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      30,
+      50,
+      100,
+      120
+    ],
+    "material": "PET",
+    "features": [
+      "Set series",
+      "In stock"
+    ],
+    "description": "재고 보유 PET 스킨케어 풀세트 B.",
+    "image": "assets/images/products-new/_placeholders/P007.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "kangyue-skincare-set-3",
+    "name_kr": "PET 스킨케어 세트 C",
+    "name_en": "PET Skincare Set C",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "D",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      30,
+      50,
+      100,
+      120
+    ],
+    "material": "PET",
+    "features": [
+      "Set series",
+      "In stock"
+    ],
+    "description": "재고 보유 PET 스킨케어 풀세트 C.",
+    "image": "assets/images/products-new/_placeholders/P008.jpg",
+    "usage": [
+      "Cream",
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "kangyue-pet-tall",
+    "name_kr": "PET 톨 보틀",
+    "name_en": "PET Tall Bottle",
+    "category": "skincare",
+    "subcategory": "bottle",
+    "partner": "D",
+    "models": [
+      "BO-01"
+    ],
+    "capacities": [
+      100,
+      120,
+      150,
+      200
+    ],
+    "material": "PET",
+    "features": [
+      "Slim tall",
+      "Modern"
+    ],
+    "description": "슬림 톨 PET 보틀, 모던 라인.",
+    "image": "assets/images/products-new/_placeholders/P005.jpg",
+    "usage": [
+      "Lotion",
+      "Serum",
+      "Toner"
+    ],
+    "volume_bucket": [
+      "51~100ml",
+      "101~200ml"
+    ]
+  },
+  {
+    "id": "kangyue-cream-jar",
+    "name_kr": "크림 자 (PET / Acrylic)",
+    "name_en": "Cream Jar — PET / Acrylic",
+    "category": "skincare",
+    "subcategory": "jar",
+    "partner": "D",
+    "models": [
+      "JA-01"
+    ],
+    "capacities": [
+      30,
+      50,
+      100,
+      120,
+      150,
+      200
+    ],
+    "material": "PET / Acrylic",
+    "features": [
+      "Wide mouth",
+      "Multi capacity"
+    ],
+    "description": "PET·아크릴 크림 자, 30~200g 풀라인.",
+    "image": "assets/images/products-new/_placeholders/P016.jpg",
+    "usage": [
+      "Cream",
+      "Mask"
+    ],
+    "volume_bucket": [
+      "16~50ml",
+      "51~100ml",
+      "101~200ml"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+# =========================================
+# Periple OEM — gitignore
+# =========================================
+
+# Original partner PDFs (NDA-protected, vendor names exposed)
+*.pdf
+
+# PDF page extracts (temp working files, may contain vendor logos)
+_pdf_pages/
+
+# Placeholder images extracted from PDFs (vendor logos visible)
+assets/images/products-new/_placeholders/
+assets/images/products/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs / build outputs
+*.log
+node_modules/
+dist/
+.cache/

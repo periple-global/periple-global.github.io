@@ -1,0 +1,75 @@
+[
+  {
+    "id": "A",
+    "name_kr": "Glass Specialist",
+    "name_en": "Verified Partner — Network A",
+    "tagline": "유리 보틀·자 전문",
+    "categories": [
+      "Bottle",
+      "Jar",
+      "Set Series",
+      "Mask Jar"
+    ],
+    "highlights": [
+      "아시아 최대급 유리 공장 그룹 직속 파트너",
+      "스킨케어 세트 시리즈 500+ 종 / 디자인 특허 50+",
+      "ISO9001 품질 시스템 인증",
+      "유리 표면 정밀 가공 (스프레이·전기도금·실크 인쇄) 자체 공장"
+    ]
+  },
+  {
+    "id": "B",
+    "name_kr": "Functional Applicator",
+    "name_en": "Verified Partner — Network B",
+    "tagline": "펜·시린지·롤러 전문",
+    "categories": [
+      "Pen",
+      "Syringe",
+      "Roller",
+      "Airless",
+      "Applicator"
+    ],
+    "highlights": [
+      "기능성 미용 용기 디자인 특허 20+",
+      "다양한 노즐 헤드 (브러시·롤러·니들·스폰지) 호환",
+      "Pen 1.5ml ~ Cream Bottle 200ml 풀라인",
+      "표면 처리 자체 처리 라인업 보유"
+    ]
+  },
+  {
+    "id": "C",
+    "name_kr": "Tube Specialist",
+    "name_en": "Verified Partner — Network C",
+    "tagline": "친환경·마사지·메이크업 튜브 전문",
+    "categories": [
+      "Tube",
+      "Eco Tube",
+      "Massage Tube",
+      "Makeup Tube"
+    ],
+    "highlights": [
+      "직경 13~60mm · 용량 2~400ml 풀스펙트럼",
+      "PCR/PLA/BIO Paper/우드·뱀부 캡 친환경 라인업",
+      "마사지 볼 튜브 (스테인리스·스톤·세라믹) 특허 보유",
+      "5비드 마사지 / 롱 노즐 / 폼 어플리케이터 등 특수 헤드"
+    ]
+  },
+  {
+    "id": "D",
+    "name_kr": "Stock Bottle",
+    "name_en": "Verified Partner — Network D",
+    "tagline": "PET·Acrylic 표준 보틀 재고 보유형",
+    "categories": [
+      "Bottle",
+      "Airless",
+      "Jar",
+      "Stock Series"
+    ],
+    "highlights": [
+      "재고 보유형 — 표준 라인업 즉시 출고 가능",
+      "PET 카숄더, Acrylic 진공, 크림 자 풀라인",
+      "프로스티드·일렉트로플레이팅·그라데이션 등 다양한 표면 처리",
+      "소량 발주 + 빠른 납기 가능"
+    ]
+  }
+]
